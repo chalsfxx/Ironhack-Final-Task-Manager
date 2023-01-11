@@ -1,6 +1,6 @@
 # [](https://github.com/chalsfxx/task-mngr/blob/main/README.md)Task Manager
 
-## Project: https://task-mngr-35a1kakvg-chalsfxx.vercel.app/auth/login
+## Project: https://63bf0d71423d1e21909f2cd1--superlative-crostata-90e988.netlify.app/
 
 Author: Carlos Ferrer Roman
 Date: 5/12/2022
