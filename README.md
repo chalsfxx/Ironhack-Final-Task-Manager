@@ -1,6 +1,8 @@
 # [](https://github.com/chalsfxx/task-mngr/blob/main/README.md)Task Manager
 
 ## Project: https://63bf0d71423d1e21909f2cd1--superlative-crostata-90e988.netlify.app/
+![Captura de pantalla 2023-01-12 140319](https://user-images.githubusercontent.com/116571485/212073692-468bad78-45c8-4309-aff9-b9e4daaaa654.png)
+![Captura de pantalla 2023-01-12 140138](https://user-images.githubusercontent.com/116571485/212073709-bbb938f4-5e06-4b7d-bf95-daa7f54e3b9e.png)
 
 Author: Carlos Ferrer Roman
 Date: 5/12/2022
